@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Dusting Off Old Ideas",
+    "url": "/ChrisGallagher/posts/info/",
+    "categories": "",
+    "tags": "devlog, ideas",
+    "date": "2025-08-18 00:00:00 -0400",
+    "content": "I’m gathering years of scattered notes from Google Drive and Obsidian, refactoring them into clear posts and backdating them to reflect when and where they first emerged."
+  },
+  {
+    "title": "Tokenizers Matter More Than You Think",
+    "url": "/ChrisGallagher/posts/Tokenizer-matter-more-Than-You-Think/",
+    "categories": "",
+    "tags": "devlog, AI, TDlife, animationPipelines, aiDevelopment",
+    "date": "2025-05-17 00:00:00 -0400",
+    "content": "originally posted on linkedin    A Hands-On Benchmark Across 8 Models and 4 File Types Over the past year, I’ve been dissecting the mechanics behind AI systems, not just how to use them, but how to..."
+  },
+  {
+    "title": "The Shape-Shifting Role of the TD, the TA, and Now the AI Developer",
+    "url": "/ChrisGallagher/posts/td-ta-ai-role-evolution/",
+    "categories": "",
+    "tags": "devlog, AI, TDlife, animationPipelines, aiDevelopment",
+    "date": "2025-05-06 00:00:00 -0400",
+    "content": "A reflection on the evolving role of Technical Directors and Technical Artists in the age of AI  and how system thinking continues to define creative innovation."
+  },
+  {
+    "title": "The Role That Doesn’t Exist (But Maybe It Does)",
+    "url": "/ChrisGallagher/posts/the-role-that-doesnt-exist/",
+    "categories": "",
+    "tags": "aiTD, promptEngineering, LLMsystems, devlog, creativeWorkflow",
+    "date": "2025-05-05 00:00:00 -0400",
+    "content": "Exploring the missing middle ground between prompt engineering and AI architecture through the lens of a Technical Director."
+  },
+  {
+    "title": "Steal This Prompt (Then Make It Yours)",
+    "url": "/ChrisGallagher/posts/Steak-This-Prompt/",
+    "categories": "",
+    "tags": "promptEngineering, AItools, creativeWorkflow",
+    "date": "2025-04-30 00:00:00 -0400",
+    "content": "A reusable AI prompt template to help you write like yourself, with clarity, confidence, and personality."
+  },
+  {
+    "title": "The Thinking Graph: How a Shelf of Notebooks Turned Into a Living Web of Ideas",
+    "url": "/ChrisGallagher/posts/ThinkingGraph/",
+    "categories": "",
+    "tags": "devlog",
+    "date": "2025-04-20 00:00:00 -0400",
+    "content": "The Thinking Graph: How a Shelf of Notebooks Turned Into a Living Web of Ideas  This was originally ideas created a few years ago and I refactored for my new blog/site  I. From Paper to Pixels  My ..."
+  },
+  {
+    "title": "Confessions of a Sublime Fan - Why Im Finally Giving VSCode a Real Shot",
+    "url": "/ChrisGallagher/posts/Sublime-fan/",
+    "categories": "devlog, TDlife, animationPipelines, IDE",
+    "tags": "",
+    "date": "2024-11-11 00:00:00 -0400",
+    "content": "Confessions of a Sublime Fan: Why I’m Finally Giving VSCode a Real Shot  I’ve always loved Sublime Text. There, I said it.  For years, Sublime was my home base, my no-fuss code companion. It loaded..."
+  },
+  {
+    "title": "GitHub Pages to Consolidate My Ideas",
+    "url": "/ChrisGallagher/posts/Github-pages/",
+    "categories": "Blogging",
+    "tags": "",
+    "date": "2024-04-04 00:00:00 -0400",
+    "content": "Why I Chose GitHub Pages to Consolidate My Ideas  Over the years, I’ve scattered my thoughts, experiments, and projects across so many platforms it would make your head spin:     Blogger   Tumblr  ..."
+  },
+  {
+    "title": "Mailbox - When Email Felt Like Magic",
+    "url": "/ChrisGallagher/posts/Mailbox-when-email-felt-like-magic/",
+    "categories": "",
+    "tags": "email, creativeWorkflow, powerTools",
+    "date": "2023-02-14 00:00:00 -0400",
+    "content": "The Elegance of Mailbox: When Email Felt Like Magic  There was a brief moment in tech when email felt light, fast, and almost joyful. That moment was called Mailbox.  How fast ten years has gone! L..."
+  }
+  
+]
+

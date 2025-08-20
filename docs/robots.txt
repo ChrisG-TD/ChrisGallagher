@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://chrisg-td.github.io/ChrisGallagher/sitemap.xml

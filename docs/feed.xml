@@ -1,0 +1,133 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://chrisg-td.github.io/ChrisGallagher/</id>
+  <title>Chris Gallagher</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-08-20T19:16:52-04:00</updated>
+  <author>
+    <name>Chris Gallagher</name>
+    <uri>https://chrisg-td.github.io/ChrisGallagher/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://chrisg-td.github.io/ChrisGallagher/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://chrisg-td.github.io/ChrisGallagher/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Chris Gallagher </rights>
+  <icon>/ChrisGallagher/assets/img/favicons/favicon.ico</icon>
+  <logo>/ChrisGallagher/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Dusting Off Old Ideas</title>
+    <link href="https://chrisg-td.github.io/ChrisGallagher/posts/info/" rel="alternate" type="text/html" title="Dusting Off Old Ideas" />
+    <published>2025-08-18T00:00:00-04:00</published>
+  
+    <updated>2025-08-18T00:00:00-04:00</updated>
+  
+    <id>https://chrisg-td.github.io/ChrisGallagher/posts/info/</id>
+    <content type="text/html" src="https://chrisg-td.github.io/ChrisGallagher/posts/info/" />
+    <author>
+      <name>cgallagher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I’m gathering years of scattered notes from Google Drive and Obsidian, refactoring them into clear posts and backdating them to reflect when and where they first emerged.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Tokenizers Matter More Than You Think</title>
+    <link href="https://chrisg-td.github.io/ChrisGallagher/posts/Tokenizer-matter-more-Than-You-Think/" rel="alternate" type="text/html" title="Tokenizers Matter More Than You Think" />
+    <published>2025-05-17T00:00:00-04:00</published>
+  
+    <updated>2025-05-17T00:00:00-04:00</updated>
+  
+    <id>https://chrisg-td.github.io/ChrisGallagher/posts/Tokenizer-matter-more-Than-You-Think/</id>
+    <content type="text/html" src="https://chrisg-td.github.io/ChrisGallagher/posts/Tokenizer-matter-more-Than-You-Think/" />
+    <author>
+      <name>cgallagher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>originally posted on linkedin    A Hands-On Benchmark Across 8 Models and 4 File Types Over the past year, I’ve been dissecting the mechanics behind AI systems, not just how to use them, but how to engineer them. That’s the TD in me. I’ve always been driven to understand the layers beneath the surface: how tools talk to each other, where inefficiencies creep in, and how we can build smarter pip...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>The Shape-Shifting Role of the TD, the TA, and Now the AI Developer</title>
+    <link href="https://chrisg-td.github.io/ChrisGallagher/posts/td-ta-ai-role-evolution/" rel="alternate" type="text/html" title="The Shape-Shifting Role of the TD, the TA, and Now the AI Developer" />
+    <published>2025-05-06T00:00:00-04:00</published>
+  
+    <updated>2025-05-06T00:00:00-04:00</updated>
+  
+    <id>https://chrisg-td.github.io/ChrisGallagher/posts/td-ta-ai-role-evolution/</id>
+    <content type="text/html" src="https://chrisg-td.github.io/ChrisGallagher/posts/td-ta-ai-role-evolution/" />
+    <author>
+      <name>cgallagher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>A reflection on the evolving role of Technical Directors and Technical Artists in the age of AI  and how system thinking continues to define creative innovation.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>The Role That Doesn’t Exist (But Maybe It Does)</title>
+    <link href="https://chrisg-td.github.io/ChrisGallagher/posts/the-role-that-doesnt-exist/" rel="alternate" type="text/html" title="The Role That Doesn’t Exist (But Maybe It Does)" />
+    <published>2025-05-05T00:00:00-04:00</published>
+  
+    <updated>2025-05-05T00:00:00-04:00</updated>
+  
+    <id>https://chrisg-td.github.io/ChrisGallagher/posts/the-role-that-doesnt-exist/</id>
+    <content type="text/html" src="https://chrisg-td.github.io/ChrisGallagher/posts/the-role-that-doesnt-exist/" />
+    <author>
+      <name>cgallagher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Exploring the missing middle ground between prompt engineering and AI architecture through the lens of a Technical Director.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Steal This Prompt (Then Make It Yours)</title>
+    <link href="https://chrisg-td.github.io/ChrisGallagher/posts/Steak-This-Prompt/" rel="alternate" type="text/html" title="Steal This Prompt (Then Make It Yours)" />
+    <published>2025-04-30T00:00:00-04:00</published>
+  
+    <updated>2025-04-30T00:00:00-04:00</updated>
+  
+    <id>https://chrisg-td.github.io/ChrisGallagher/posts/Steak-This-Prompt/</id>
+    <content type="text/html" src="https://chrisg-td.github.io/ChrisGallagher/posts/Steak-This-Prompt/" />
+    <author>
+      <name>cgallagher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>A reusable AI prompt template to help you write like yourself, with clarity, confidence, and personality.</summary>
+
+  </entry>
+
+</feed>
+
+
