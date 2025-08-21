@@ -2,7 +2,11 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
+<<<<<<< HEAD
     branches: [ "master" ]
+=======
+    branches: ["master"]
+>>>>>>> c34a2e3 (ci: fix Pages workflow and normalize line endings)
   workflow_dispatch:
 
 permissions:
@@ -24,7 +28,11 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
+<<<<<<< HEAD
           ruby-version: '3.2'
+=======
+          ruby-version: "3.2"
+>>>>>>> c34a2e3 (ci: fix Pages workflow and normalize line endings)
           bundler-cache: true
 
       - name: Build with Jekyll
