@@ -231,12 +231,11 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
-  #  - jekyll-feed
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-redirect-from
-#  - jekyll-remote-theme
-
+  - jekyll-remote-theme
