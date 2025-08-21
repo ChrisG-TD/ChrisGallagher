@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -24,7 +24,6 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://chrisgallagher.github.io', note that it does not end with a '/'.
 url: "https://chrisg-td.github.io"
-baseurl: "/ChrisGallagher"
 
 github:
   username: chrisg-td # change to your GitHub username
@@ -151,6 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
+#baseurl: ""
 baseurl: "/ChrisGallagher"
 
 # ------------ The following options are not recommended to be modified ------------------
@@ -216,6 +216,10 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - assets/feed.xml
+  - feed.xml
+  - assets/js/pwa/sw.js
+  - assets/js/dist/sw.min.js
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -225,3 +229,14 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  #  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-redirect-from
+#  - jekyll-remote-theme
+
