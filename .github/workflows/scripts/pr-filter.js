@@ -9,10 +9,19 @@ function hasDescription(markdown) {
   );
 }
 
+function removeHtmlComments(input) {
+  let previous;
+  do {
+    previous = input;
+    input = input.replace(/<!--[\s\S]*?-->/g, '');
+  } while (input !== previous);
+  return input;
+}
+
 module.exports = async ({ github, context, core }) => {
   const pr = context.payload.pull_request;
   const body = pr.body === null ? '' : pr.body;
-  const markdown = body.replace(/<!--[\s\S]*?-->/g, '');
+  const markdown = removeHtmlComments(body);
   const action = context.payload.action;
 
   const isValid =
