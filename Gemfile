@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 6.0", ">= 6.0.1"
+gem "jekyll-theme-chirpy", "~> 7.3"
 gem "jekyll-paginate"
 gem "jekyll-include-cache"
 
